@@ -8,10 +8,9 @@ Tenho dedicado minha carreira a garantir a eficiência dos sistemas, resolução
 
 
 
+## Skill's
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Contribuições no GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Belletati&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 Conecte-se comigo!
